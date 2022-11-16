@@ -5,6 +5,7 @@ import SignUpScreen from './SignUpScreen';
 
 
 import HomeScreen from './HomeScreen';
+import NewDespesaScreen from './NewDespesa';
 
 import ProfileScreen from "./ProfileScreen";
 import SearchScreen from './SearchScreen';
@@ -19,7 +20,7 @@ export {
     LoginScreen,
     SignUpScreen,
     HomeScreen,
-
+    NewDespesaScreen,
     ProfileScreen,
     SearchScreen,
     ReportScreen,

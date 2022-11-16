@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
   },
 
   containerText: {
-    flex: 2,
+    flex: 1.5,
     justifyContent: "flex-end",
     // backgroundColor: "red",
   },
@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
   },
 
   containerImg: {
-    flex: 6,
+    flex: 4,
     justifyContent: "center",
     alignItems: "center",
     // backgroundColor: "blue",
